@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.semua_pay.cash_trust",
+    "sha256_cert_fingerprints":
+    ["83:BA:A1:15:E4:69:E2:A1:6B:E2:7F:D2:1B:17:01:99:8E:21:68:B8:0C:1D:52:A7:71:92:D4:FA:60:E7:54:07"]
+  }
+}]
